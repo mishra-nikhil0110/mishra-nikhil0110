@@ -106,7 +106,8 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 <br/>  
-
+<a href="#"><img alt="Nikhil's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=mishra-nikhil0110&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
 
 
 

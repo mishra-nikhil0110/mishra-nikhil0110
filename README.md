@@ -48,9 +48,12 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/4728b126-a683-4411-af46-c79db98ebde3" alt="Refine" height="50" />  
-<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/bae72724-da92-4b2d-be2a-44997250eecc" alt="Ant Design" height="50" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/4728b126-a683-4411-af46-c79db98ebde3" alt="Refine" height="20" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/bae72724-da92-4b2d-be2a-44997250eecc" alt="Ant Design" height="50" /> 
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/8e0a53b4-77c6-4ce8-a0fa-50913ffd460f" alt="Next.js" height="20" /> 
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/88754f45-4eec-42a0-8ffe-958976916150" alt="Tailwind" height="20" /> 
 </div>
+
 
 
 
@@ -65,7 +68,9 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-</div>
+  <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />  
+  </div>
+
 
 </td><td valign="top" width="33%">
 
@@ -76,10 +81,13 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/ad0fc7bd-804b-4681-9256-ee70af67231b" alt="Netlify" height="50" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/2f258023-3301-42e5-98fe-5b89564aba09" alt="Vercel" height="50" />  
 </div>
 </td></tr></table>  
 <br/>  
+
+
 <br/>
 <div align="center">
 

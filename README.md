@@ -34,8 +34,8 @@
 
 I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love building Full-Stack Web, mobile and web3 apps.
 
-- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
-- 👨‍💻Currently working as <b>Software Developer Intern @CFPL</b>
+- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS</b>
+- 👨‍💻Currently working as <b>Software Developer Intern @CFPL</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
 - 🌱 I’m currently learning <b>Blockchain and Web3 Development</b>
 - 👯 I’m looking to collaborate on <b>Full-Stack Development</b>
 - 🤔 I’m looking for a good project to contribute on
@@ -45,10 +45,9 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 - ⚡ Other : Like to play Cricket! (Can hit upto 5 sixes in an over😎😊) 
   </br>
   </br>
-  </br>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-  </br>
-  </br>
+ </br>
+ 
 ## What I'm Good At: 👩‍💻
 
 <table><tr><td valign="top" width="33%">
@@ -101,13 +100,9 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 </div>
 </td></tr></table>  
 <br/>  
-
-
 <br/>
 <div align="center">
-
 </div>  
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 <br/>  

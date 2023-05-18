@@ -4,7 +4,7 @@
 <p>
   <h1 align="center"><b>Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm <i>Nikhil</i></b></h1>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<img src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/d7e9d7e5-cc0a-4ad0-827d-05a540d1da8e" >
 <a><img src="https://komarev.com/ghpvc/?username=mishra-nikhil0110&style=for-the-badge&color=orange"></a>
 
 </p>
@@ -102,3 +102,37 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
 </div>  
 <br/>
 <br/>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

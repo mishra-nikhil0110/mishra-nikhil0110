@@ -3,9 +3,24 @@
 
 <p>
   <h1 align="center"><b>Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm <i>Nikhil</i></b></h1>
+  <div align="center">
+  <a><img src="https://komarev.com/ghpvc/?username=mishra-nikhil0110&style=for-the-badge&color=orange"></a>
+<a href="https://github.com/https://github.com/mishra-nikhil0110" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nikhil-mishra0110" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/m_nikhil0110" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/em_nikhil01/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <img src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/d7e9d7e5-cc0a-4ad0-827d-05a540d1da8e" >
-<a><img src="https://komarev.com/ghpvc/?username=mishra-nikhil0110&style=for-the-badge&color=orange"></a>
+
 
 </p>
 
@@ -17,9 +32,9 @@
 
 </p>
 
-I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love building Full-Stack Web, mobile and web3 apps.
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS</b>
+I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love building Full-Stack Web, mobile and web3 apps.
+
+- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
 - 👨‍💻Currently working as <b>Software Developer Intern @CFPL</b>
 - 🌱 I’m currently learning <b>Blockchain and Web3 Development</b>
 - 👯 I’m looking to collaborate on <b>Full-Stack Development</b>
@@ -34,7 +49,7 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   </br>
   </br>
-## My Skill Set 👩‍💻
+## What I'm Good At: 👩‍💻
 
 <table><tr><td valign="top" width="33%">
 
@@ -94,22 +109,9 @@ I'm 22-year-old boy on an intention to enhance as a Software Engineer. I love bu
 </div>  
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-## Connect with me 🚀
 
-<div align="center">
-<a href="https://github.com/https://github.com/mishra-nikhil0110" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikhil-mishra0110" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/m_nikhil0110" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/em_nikhil01/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+
 <br/>
 <br/>  
 

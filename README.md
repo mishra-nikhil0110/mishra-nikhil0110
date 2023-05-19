@@ -39,7 +39,7 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 - 🌱 I’m currently learning <b>Blockchain and Web3 Development</b>
 - 👯 I’m looking to collaborate on <b>Full-Stack Development</b>
 - 🤔 I’m looking for a good projects to contribute on
-- 🥅 2023: Contribute more and more to open-source
+- 🥅 2023: Contribute more and more to <b>open-source</b>
 - 💬 Ask me about <b>Full-Stack Development</b>
 - 📫 How to reach me: <b>[mishra.nikhil0110@gmail.com](mailto:mishra.nikhil0110@gmail.com) </b>
 - 😄 Pronouns: <b>He/Him</b>

@@ -38,11 +38,12 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 - 👨‍💻Currently working as <b>Software Developer Intern @CFPL</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
 - 🌱 I’m currently learning <b>Blockchain and Web3 Development</b>
 - 👯 I’m looking to collaborate on <b>Full-Stack Development</b>
-- 🤔 I’m looking for a good project to contribute on
-- 💬 Ask me about <b>Full-Stack Development<b/>
- - 📫 How to reach me: <b> [mishra.nikhil0110@gmail.com](mailto:mishra.nikhil0110@gmail.com) </b>
+- 🤔 I’m looking for a good projects to contribute on
+- 🥅 2023: Contribute more and more to open-source
+- 💬 Ask me about <b>Full-Stack Development</b>
+- 📫 How to reach me: <b>[mishra.nikhil0110@gmail.com](mailto:mishra.nikhil0110@gmail.com) </b>
 - 😄 Pronouns: <b>He/Him</b>
-- ⚡ Other : Like to play Cricket! (Can hit upto 5 sixes in an over😎😊) 
+- ⚡ Other : Like to play Cricket! <b>(Can hit upto 5 sixes in an over😎😊)</b>
   </br>
   </br>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

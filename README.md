@@ -5,7 +5,7 @@
   <h1 align="center"><b>Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm <i>Nikhil</i></b></h1>
   <div align="center">
   <a><img src="https://komarev.com/ghpvc/?username=mishra-nikhil0110&style=for-the-badge&color=orange"></a>
-<a href="https://github.com/https://github.com/mishra-nikhil0110" target="_blank">
+<a href="https://github.com/mishra-nikhil0110" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/nikhil-mishra0110" target="_blank">

@@ -8,13 +8,13 @@
 <a href="https://github.com/mishra-nikhil0110" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikhil-mishra0110" target="_blank">
+<a href="https://www.linkedin.com/in/nikhil-mishra0110/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/m_nikhil0110" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/em_nikhil01/" target="_blank">
+<a href="https://www.instagram.com/em_nikhil01/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  

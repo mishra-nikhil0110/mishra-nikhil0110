@@ -85,7 +85,8 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-  <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/fec3203d-f229-41b1-8dc0-8e7884b7ea3e" alt="PostgreSQL" height="50" />  
   </div>
 
 

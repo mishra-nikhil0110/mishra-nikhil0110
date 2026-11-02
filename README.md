@@ -83,7 +83,7 @@ I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I lo
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://zonalogo.com/assets/expressjs-logo-png-svg.webp?asset=2745" alt="Express.js" height="100" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/fec3203d-f229-41b1-8dc0-8e7884b7ea3e" alt="PostgreSQL" height="50" /> 
   <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" height="50" />  

@@ -39,7 +39,7 @@ I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I lo
 - 👯 I’m looking to collaborate on <b>JavaScript, ReactJS and NextJS projects, FastAPI, Python</b>
 - 🤔 I’m looking for a good projects to contribute on
 - 🥅 2027: Contribute more and more to <b>open-source</b> And Build a Web3-AIML hybrid project.
-- 💬 Ask me about <b>Full-Stack Development</b>
+- 💬 Ask me about <b>Full-Stack Development, AgenticAI, GenAI, RAG, Langchain, LLMs</b>
 - 📫 How to reach me: <b>[mishra.nikhil0110@gmail.com](mailto:mishra.nikhil0110@gmail.com) </b>
 - 😄 Pronouns: <b>He/Him</b>
 - ⚡ Other : Like to play Cricket! <b>(Can hit upto 5 sixes in an over😎😊), Not fit for relationship except programming and development</b>

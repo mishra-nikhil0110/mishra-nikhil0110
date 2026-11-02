@@ -86,10 +86,10 @@ I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I lo
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/fec3203d-f229-41b1-8dc0-8e7884b7ea3e" alt="PostgreSQL" height="50" /> 
-  <img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/javascript-original.svg](https://www.google.com/imgres?q=python%20logo&imgurl=https%3A%2F%2Fwww.python.org%2Fstatic%2Fcommunity_logos%2Fpython-logo-master-v3-TM.png&imgrefurl=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&docid=ZIk6oEy_LSc-sM&tbnid=OO5BXHlBkMORMM&vet=12ahUKEwisyMaQi-mXAxVrjOEIHSh9HDIQnPAOegUIvgEQAA..i&w=601&h=203&hcb=2&ved=2ahUKEwisyMaQi-mXAxVrjOEIHSh9HDIQnPAOegUIvgEQAA)" alt="JavaScript" height="50" />  
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" height="50" />  
 
-  <img style="margin: 10px" src="https://medium.com/@ramjoshi.blogs/building-rest-apis-with-python-and-fastapi-f0e9ae19905c" alt="JavaScript" height="50" />  
-
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" height="50" />
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" alt="Graffana" height="50" />
   </div>
 
 
@@ -101,9 +101,12 @@ I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I lo
    
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure" height="50" />
+ 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/ad0fc7bd-804b-4681-9256-ee70af67231b" alt="Netlify" height="50" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/2f258023-3301-42e5-98fe-5b89564aba09" alt="Vercel" height="50" />  
+<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" height="50" />
 </div>
 </td></tr></table>  
 <br/>  

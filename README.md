@@ -31,18 +31,18 @@
 
 </p>
 
-I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love building Full-Stack Web, mobile and web3 apps.
+I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I love building Full-Stack Web, mobile and web3 apps.
 
-- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS</b>
-- 👨‍💻Currently working as <b>Software Developer Intern @CFPL</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
-- 🌱 I’m currently learning <b>Blockchain and Web3 Development</b>
-- 👯 I’m looking to collaborate on <b>JavaScript, ReactJS and NextJS projects</b>
+- 🔭 I’m currently working on <b>MERN Stack, Refine Framework, Headless CMS, Python, FastAPI, Postgres, Docker etc.</b>
+- 👨‍💻Currently working as <b>Software Development Engineer-1 @Makunai Global</b><img width="45%" align="right" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mishra-nikhil0110&show_icons=true&theme=tokyonight" />
+- 🌱 I’m currently learning <b>AI-ML & Blockchain/Web3 Development</b>
+- 👯 I’m looking to collaborate on <b>JavaScript, ReactJS and NextJS projects, FastAPI, Python</b>
 - 🤔 I’m looking for a good projects to contribute on
-- 🥅 2023: Contribute more and more to <b>open-source</b>
+- 🥅 2027: Contribute more and more to <b>open-source</b> And Build a Web3-AIML hybrid project.
 - 💬 Ask me about <b>Full-Stack Development</b>
 - 📫 How to reach me: <b>[mishra.nikhil0110@gmail.com](mailto:mishra.nikhil0110@gmail.com) </b>
 - 😄 Pronouns: <b>He/Him</b>
-- ⚡ Other : Like to play Cricket! <b>(Can hit upto 5 sixes in an over😎😊)</b>
+- ⚡ Other : Like to play Cricket! <b>(Can hit upto 5 sixes in an over😎😊), Not fit for relationship except programming and development</b>
   </br>
   </br>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -85,7 +85,11 @@ I'm a 21-year-old boy on an intention to enhance as a Software Engineer. I love 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/851037ff-3591-4f4b-b3c9-e7ac5788a551" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/fec3203d-f229-41b1-8dc0-8e7884b7ea3e" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/fec3203d-f229-41b1-8dc0-8e7884b7ea3e" alt="PostgreSQL" height="50" /> 
+  <img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/javascript-original.svg](https://www.google.com/imgres?q=python%20logo&imgurl=https%3A%2F%2Fwww.python.org%2Fstatic%2Fcommunity_logos%2Fpython-logo-master-v3-TM.png&imgrefurl=https%3A%2F%2Fwww.python.org%2Fcommunity%2Flogos%2F&docid=ZIk6oEy_LSc-sM&tbnid=OO5BXHlBkMORMM&vet=12ahUKEwisyMaQi-mXAxVrjOEIHSh9HDIQnPAOegUIvgEQAA..i&w=601&h=203&hcb=2&ved=2ahUKEwisyMaQi-mXAxVrjOEIHSh9HDIQnPAOegUIvgEQAA)" alt="JavaScript" height="50" />  
+
+  <img style="margin: 10px" src="https://medium.com/@ramjoshi.blogs/building-rest-apis-with-python-and-fastapi-f0e9ae19905c" alt="JavaScript" height="50" />  
+
   </div>
 
 

@@ -64,6 +64,7 @@ I'm a 24-year-old Engineer having intention to enhance as a Problem Solver. I lo
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/ce7715d7-e1cf-47fe-9cd3-b744af99cd1c" alt="TypeScript" height="50" /> 
+<img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Redux.svg" alt="TypeScript" height="50" /> 
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/4728b126-a683-4411-af46-c79db98ebde3" alt="Refine" height="35" />  
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/bae72724-da92-4b2d-be2a-44997250eecc" alt="Ant Design" height="50" /> 
 <img style="margin: 10px" src="https://github.com/mishra-nikhil0110/mishra-nikhil0110/assets/105505070/88754f45-4eec-42a0-8ffe-958976916150" alt="Tailwind" height="50" /> 
